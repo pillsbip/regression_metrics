@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/bipin/scala_metrics_regression/target/scala-2.13/regression_metrics_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	regression_metrics[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bipin/scala_metrics_regression/target/scala-2.13/classes/regression_metrics[0m
+[0m[[0m[0mdebug[0m] [0m[0m	regression_metrics/CalculateRegressionMetrics$.class:Zone.Identifier[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bipin/scala_metrics_regression/target/scala-2.13/classes/regression_metrics/CalculateRegressionMetrics$.class:Zone.Identifier[0m
+[0m[[0m[0mdebug[0m] [0m[0m	regression_metrics/CalculateRegressionMetrics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bipin/scala_metrics_regression/target/scala-2.13/classes/regression_metrics/CalculateRegressionMetrics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	regression_metrics/CalculateRegressionMetrics.class:Zone.Identifier[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bipin/scala_metrics_regression/target/scala-2.13/classes/regression_metrics/CalculateRegressionMetrics.class:Zone.Identifier[0m
+[0m[[0m[0mdebug[0m] [0m[0m	regression_metrics/CalculateRegressionMetrics$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bipin/scala_metrics_regression/target/scala-2.13/classes/regression_metrics/CalculateRegressionMetrics$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	log4j2.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bipin/scala_metrics_regression/target/scala-2.13/classes/log4j2.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	log4j2.properties:Zone.Identifier[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bipin/scala_metrics_regression/target/scala-2.13/classes/log4j2.properties:Zone.Identifier[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

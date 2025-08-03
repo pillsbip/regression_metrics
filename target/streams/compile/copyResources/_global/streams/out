@@ -1,0 +1,3 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/bipin/scala_metrics_regression/src/main/resources/log4j2.properties,/home/bipin/scala_metrics_regression/target/scala-2.13/classes/log4j2.properties)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/bipin/scala_metrics_regression/src/main/resources/log4j2.properties:Zone.Identifier,/home/bipin/scala_metrics_regression/target/scala-2.13/classes/log4j2.properties:Zone.Identifier)[0m

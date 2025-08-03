@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/bipin/scala_metrics/src/main/scala/regression_metrics.scala:107:30: not found: value predictionAndLabelsDF[0m
+[0m[[0m[31merror[0m] [0m[0mval predictionAndLabelsRDD = predictionAndLabelsDF[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
